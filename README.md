@@ -4,3 +4,7 @@
 - Eklenen Todolar Local Storage a Kaydedilir
 - Kayıtlı Todolar Arasında Arama Yapılabilir
 - Responsive Yapıya Sahiptir
+
+<h2>Ekran Alıntısı</h2>
+
+![](/Todo-app.gif)
